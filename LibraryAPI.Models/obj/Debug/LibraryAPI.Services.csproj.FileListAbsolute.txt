@@ -1,0 +1,5 @@
+C:\Users\Angel Murchison\documents\visual studio 2015\Projects\LibraryAPI\LibraryAPI.Models\bin\Debug\LibraryAPI.Models.dll
+C:\Users\Angel Murchison\documents\visual studio 2015\Projects\LibraryAPI\LibraryAPI.Models\bin\Debug\LibraryAPI.Models.pdb
+C:\Users\Angel Murchison\documents\visual studio 2015\Projects\LibraryAPI\LibraryAPI.Models\obj\Debug\LibraryAPI.Services.csprojResolveAssemblyReference.cache
+C:\Users\Angel Murchison\documents\visual studio 2015\Projects\LibraryAPI\LibraryAPI.Models\obj\Debug\LibraryAPI.Models.dll
+C:\Users\Angel Murchison\documents\visual studio 2015\Projects\LibraryAPI\LibraryAPI.Models\obj\Debug\LibraryAPI.Models.pdb

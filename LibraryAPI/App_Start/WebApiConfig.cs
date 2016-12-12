@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 using LibraryAPI.Models;
-using LibraryAPI.Controller;
+using LibraryAPI.Services;
 
 namespace LibraryAPI.View
 {
@@ -16,8 +16,8 @@ namespace LibraryAPI.View
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
-                name: "LibraryAPI",
-                routeTemplate: "api/{controller}/{id}",
+                name: "DefaultAPI",
+                routeTemplate: "api/{controller}/{action}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
         }

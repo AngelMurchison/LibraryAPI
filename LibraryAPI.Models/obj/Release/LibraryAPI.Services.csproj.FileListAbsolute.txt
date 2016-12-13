@@ -1,0 +1,4 @@
+C:\Users\Angel Murchison\documents\visual studio 2015\Projects\LibraryAPI\LibraryAPI.Models\bin\Release\LibraryAPI.Models.dll
+C:\Users\Angel Murchison\documents\visual studio 2015\Projects\LibraryAPI\LibraryAPI.Models\bin\Release\LibraryAPI.Models.pdb
+C:\Users\Angel Murchison\documents\visual studio 2015\Projects\LibraryAPI\LibraryAPI.Models\obj\Release\LibraryAPI.Models.dll
+C:\Users\Angel Murchison\documents\visual studio 2015\Projects\LibraryAPI\LibraryAPI.Models\obj\Release\LibraryAPI.Models.pdb
